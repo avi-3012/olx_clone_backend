@@ -11,7 +11,7 @@ require("../db/connection");
 
 const imgStorage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, "/uploads");
+    cb(null, "./uploads");
   },
   filename: (req, file, cb) => {
     cb(null, `image-${Date.now()}.jpg`);
