@@ -2,6 +2,7 @@
 # OLX-CLONE
 
 This is a **Backend Repository** for the functional OLX clone.
+For Frontend Repository ```https://github.com/avi-3012/olx_clone_frontend```
 
 ## Features:
 
