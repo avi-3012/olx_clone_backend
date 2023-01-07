@@ -40,7 +40,7 @@ For Frontend Repository ```https://github.com/avi-3012/olx_clone_frontend```
 
     ```npm run dev```
 
-    Now open your preferred browser and go to ```http://localhost:5000/``` If it shows "Hello World!", then **Congrats!!** you have successfully deployed the OLX-CLONE **backend** on your local network.
+    Now open your preferred browser and go to ```http://localhost:8080/``` If it shows "Hello World!", then **Congrats!!** you have successfully deployed the OLX-CLONE **backend** on your local network.
     
 ## MONGO DB COLLECTIONS
 - user-data: To store login info. (Email, Password)
