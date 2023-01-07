@@ -55,7 +55,7 @@ For Frontend Repository ```https://github.com/avi-3012/olx_clone_frontend```
     
 - POST /api/users/register
 
-    To register user. Takes two variables from req body as email and password. Then, it create entry into user-data.
+    To register user. Takes two variables from req body as email and password. Then, it creates entry into user-data.
     
 - POST /api/users/login
 
