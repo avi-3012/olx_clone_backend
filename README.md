@@ -83,8 +83,8 @@ For Frontend Repository ```https://github.com/avi-3012/olx_clone_frontend```
     
 - GET /api/account/myorders/:id
 
-    To find products user bought. Verifies it with JWT token, and returns the response with order data of that specific email.
+    To find products user bought. Verifies user with JWT token, and returns the response with order data of that specific email.
     
 - GET /api/account/myproducts/:id
 
-    To find products user listed. Verifies it with JWT token, and returns the response with product data of that specific email.
+    To find products user listed. Verifies user with JWT token, and returns the response with product data of that specific email.
